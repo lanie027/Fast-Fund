@@ -1,0 +1,11 @@
+C:\Users\ACER\source\repos\Event-Driven\Event-Driven\bin\Debug\Event-Driven.exe.config
+C:\Users\ACER\source\repos\Event-Driven\Event-Driven\bin\Debug\Event-Driven.exe
+C:\Users\ACER\source\repos\Event-Driven\Event-Driven\bin\Debug\Event-Driven.pdb
+C:\Users\ACER\source\repos\Event-Driven\Event-Driven\obj\Debug\Event-Driven.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Event-Driven\Event-Driven\obj\Debug\Event-Driven.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\Event-Driven\Event-Driven\obj\Debug\Event_Driven.Form1.resources
+C:\Users\ACER\source\repos\Event-Driven\Event-Driven\obj\Debug\Event_Driven.Properties.Resources.resources
+C:\Users\ACER\source\repos\Event-Driven\Event-Driven\obj\Debug\Event-Driven.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\Event-Driven\Event-Driven\obj\Debug\Event-Driven.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Event-Driven\Event-Driven\obj\Debug\Event-Driven.exe
+C:\Users\ACER\source\repos\Event-Driven\Event-Driven\obj\Debug\Event-Driven.pdb
